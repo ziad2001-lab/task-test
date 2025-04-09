@@ -38,7 +38,7 @@ To run this application, you'll need the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/fizzbuzz-detector.git
+   git clone https://github.com/ziad2001-lab/task-test.git
    cd fizzbuzz-detector
    ```
 

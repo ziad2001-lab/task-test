@@ -1,7 +1,5 @@
-Here’s a well-documented README for your FizzBuzz Detector application, suitable for inclusion in a GitHub repository or any other project hosting platform.
 
 ---
-
 # FizzBuzz Detector
 
 The **FizzBuzz Detector** is a simple application that processes an input string and replaces words based on the FizzBuzz logic. Words in the string are replaced with `Fizz`, `Buzz`, or `FizzBuzz` depending on their position in the sequence. 
